@@ -6,3 +6,6 @@
 - [x] cctv.com
 - [x] miguvideo.com
 - [x] yangshipin.cn
+- [x] iqiyi 需要nodejs
+- [ ] 
+
